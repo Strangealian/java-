@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Cal",
+            "request": "launch",
+            "mainClass": "main.java.gui.Cal",
+            "projectName": "javaTest1_a70bbc7e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "main.java.gui.Test",
+            "projectName": "javaTest1_a70bbc7e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "main.java.Test",
+            "projectName": "javaTest1_a70bbc7e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Dog",
+            "request": "launch",
+            "mainClass": "main.java.Dog",
+            "projectName": "javaTest1_a70bbc7e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LeapYearPlus",
+            "request": "launch",
+            "mainClass": "main.java.LeapYearPlus",
+            "projectName": "javaTest1_a70bbc7e"
+        }
+    ]
+}
