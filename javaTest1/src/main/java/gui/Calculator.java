@@ -221,8 +221,7 @@ public class Calculator implements ActionListener{
         
     }
     public static void main(String[] args) {
-        // TODO code application logic here
-        Calculator c=new Calculator();
+        new Calculator();
     }
 
     @Override
