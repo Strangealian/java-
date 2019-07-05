@@ -3,8 +3,10 @@ package main.java.gui;
 public class Test {
     public static void main(String[] args) {
         
-        Cal c=new Cal();
-        c.frame();
+        //Cal c=new Cal();
+        //c.frame();
+        JCalculator jc=new JCalculator();
+        jc.frame();
         //c.calculateResult();
         // Panel p1=new Panel();
         // Frame f1 = new Frame("test");
